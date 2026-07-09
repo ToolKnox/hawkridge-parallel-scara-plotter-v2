@@ -4,7 +4,7 @@ Status: **DRAFT PACKAGE — local files/docs seeded; not publish-ready. Do not p
 
 Project: Parallel SCARA Plotter v2
 Slug: parallel-scara-plotter-v2
-Last checked: 2026-07-09 15:27 
+Last checked: 2026-07-09 15:45 
 
 ## Source and rights
 
@@ -51,7 +51,7 @@ Last checked: 2026-07-09 15:27
 
 ## Platform draft state
 
-- [ ] Printables draft exists and is unpublished (`datePublished: null`).
+- [x] Printables draft exists and is unpublished (`datePublished: null`).
 - [ ] Authorship/remix metadata verified via API or browser.
 - [ ] Main description contains no duplicate GitHub/source/license prose already handled in metadata.
 - [ ] License metadata set on platform.
@@ -78,3 +78,15 @@ Last checked: 2026-07-09 15:27
 - Staged printable/CAD file count: 4.
 - Removed downloadable license docs from upload package: 0.
 - Release remains blocked until full docs rewrite, affiliate links, BOM PDF, platform draft, and Tom approval.
+
+## GitHub documentation repo
+
+- 2026-07-09 15:45  — public GitHub documentation repo created/updated: `https://github.com/ToolKnox/hawkridge-parallel-scara-plotter-v2`.
+
+## Printables draft verification
+
+- 2026-07-09 15:45  — actual Printables draft created/updated: `https://www.printables.com/model/1776621-parallel-scara-plotter-v2`.
+- `datePublished`: `None` (must stay null until publish approval).
+- API file counts: files `5`, images `0`, STL refs `4`.
+- Other files: Parallel SCARA Plotter v2 Draft Bill of Material.pdf.
+- Release remains blocked: affiliate links/BOM PDF final verification and Tom publish approval still required.
