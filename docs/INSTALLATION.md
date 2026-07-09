@@ -1,8 +1,4 @@
-# Parallel SCARA Plotter v2
-
-MIT-licensed 3D printed Arduino UNO parallel SCARA drawing plotter; compact printable parts and firmware need a modern build guide and BOM refresh.
-
-## Installation / quick start
+# Installation and build guide
 
 ## Project
 
@@ -42,13 +38,3 @@ MIT-licensed 3D printed Arduino UNO parallel SCARA drawing plotter; compact prin
 ## Original source
 
 https://github.com/andres-zibula/Parallel-SCARA-Plotter-v2
-
-
-## Where to find things
-
-- Printables model and printable files: https://www.printables.com/model/1776621-parallel-scara-plotter-v2
-- Bill of Material: `Parallel SCARA Plotter v2 Bill of Material.pdf` in the Printables Documentation section
-- Full mirrored upstream source/software/PCB files: `source/upstream/`
-- Source asset index: `docs/source-assets.md`
-- Standalone install/build guide: `docs/INSTALLATION.md`
-

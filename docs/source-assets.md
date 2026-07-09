@@ -2,12 +2,20 @@
 
 Original source/remix parent: https://github.com/andres-zibula/Parallel-SCARA-Plotter-v2
 
-This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
+Mirrored source snapshot: `9` files, 0.25 MiB, under `source/upstream/`.
 
-## Code, firmware, and configuration
+## Download
 
-- `parallel_scara_v2.ino`
+Use GitHub's **Code → Download ZIP** button, or clone the repository. The mirrored software/PCB/source files are included under `source/upstream/`.
 
-## PCB and electronics manufacturing assets
+## Software / firmware / config files
 
-- None listed for this package.
+- `source/upstream/parallel_scara_v2.ino`
+
+## PCB / electronics manufacturing files
+
+- None detected.
+
+## Upstream docs
+
+- `source/upstream/README.md`
