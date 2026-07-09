@@ -7,5 +7,5 @@ Printables page: https://www.printables.com/model/1776621-parallel-scara-plotter
 ## Page sections
 
 - **Files** — printable STL/CAD files for the build.
-- **Documentation** — `Parallel SCARA Plotter v2 Draft Bill of Material.pdf` with the parts list.
+- **Documentation** — `Parallel SCARA Plotter v2 Bill of Material.pdf` with the parts list.
 - **Description** — short project overview and links back to these docs.
