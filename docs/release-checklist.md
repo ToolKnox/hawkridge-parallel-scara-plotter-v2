@@ -4,7 +4,7 @@ Status: **DRAFT PACKAGE — local files/docs seeded; not publish-ready. Do not p
 
 Project: Parallel SCARA Plotter v2
 Slug: parallel-scara-plotter-v2
-Last checked: 2026-07-09 15:45 
+Last checked: 2026-07-09 15:49 
 
 ## Source and rights
 
@@ -86,6 +86,14 @@ Last checked: 2026-07-09 15:45
 ## Printables draft verification
 
 - 2026-07-09 15:45  — actual Printables draft created/updated: `https://www.printables.com/model/1776621-parallel-scara-plotter-v2`.
+- `datePublished`: `None` (must stay null until publish approval).
+- API file counts: files `5`, images `0`, STL refs `4`.
+- Other files: Parallel SCARA Plotter v2 Draft Bill of Material.pdf.
+- Release remains blocked: affiliate links/BOM PDF final verification and Tom publish approval still required.
+
+## Printables draft verification
+
+- 2026-07-09 15:49  — actual Printables draft created/updated: `https://www.printables.com/model/1776621-parallel-scara-plotter-v2`.
 - `datePublished`: `None` (must stay null until publish approval).
 - API file counts: files `5`, images `0`, STL refs `4`.
 - Other files: Parallel SCARA Plotter v2 Draft Bill of Material.pdf.
